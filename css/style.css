@@ -27,3 +27,64 @@ margin-bottom: 20px;
 font-size: 24px;
 }
 /* ここまで石井のスタイル */
+
+
+/* ここから志字のスタイルシート */
+.shiji_box{
+width: 100% ;
+height: 100vh ;
+text-align:center ;
+}
+
+.shiji_title{
+font-size: 48px ;
+margin-bottom: 24px ;
+color :#b68e16 ;
+font-weight: bold ;
+}
+
+.shiji_photo img{
+max-width: 100% ;
+vertical-align: bottom;
+margin-bottom: 100px ;
+}
+
+.shiji_keyvisual{
+font-size: 24px ;
+line-height: 2.4 ;
+}
+
+/* ここまで志字のスタイルシート */
+
+
+/*ここから矢島のスタイル*/
+.yajima_box{
+width: 100%;
+height: 100vh;
+}
+.yajima_img{
+width: 100%;
+height: 50vh;
+}
+.yajima_img>img{
+width: 100%;
+height: 100%;
+object-fit: cover;
+max-width: 100%;
+}
+.yajima_inner{
+font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", serif;
+width: auto;
+margin: 20px auto 0;
+font-size: 20px;
+line-height:3;
+padding: 1em;
+letter-spacing: 0.15em;
+writing-mode: vertical-rl;
+}
+.yajima_txt2{
+text-align: right;
+}
+/* ここまで矢島のスタイル*/
+
+
